@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "matsui-kento",
+      "age": 23,
+      "height": 171.5
+    },
+    {
+      "id": 2,
+      "name": "suzuki-takayuki",
+      "age": 24,
+      "height": 172.5
+    },
+    {
+      "id": 3,
+      "name": "sato-takuya",
+      "age": 25,
+      "height": 173.5
+    }
+  ]
+}
